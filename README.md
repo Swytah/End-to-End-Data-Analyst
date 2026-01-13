@@ -121,7 +121,7 @@ Jupyter Notebook
 
 🔹 Workflow
 
-Data loading and inspection
+Data loading and inspection data is from the drive:https://drive.google.com/drive/folders/1nQz--RJoGLri8iFFCMIhyl4F1RJKWNb3
 
 Data cleaning and feature selection
 
